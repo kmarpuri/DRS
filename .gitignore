@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (re-downloadable with src/download_data.py)
+cache/
+data/
+
+# macOS
+.DS_Store
