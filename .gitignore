@@ -224,7 +224,7 @@ cache/
 data/
 
 # Reports
-reports/
+report/
 
 # macOS
 .DS_Store
